@@ -76,10 +76,6 @@ There are two ways of WiFi usage at the moment:
 1. Wifi Access point: Web page (upload, download books). Use your phone/laptop to load books via browser
 2. P2P sender/reciever. Direct book 2 book sharing
 
-Components:
-1. Wemos d1 v3 module
-2. PNP transistor 2N3906
-3. resistor 330
 
 ## Charger
 
@@ -99,7 +95,8 @@ Components:
 
 ## Weight
 
-Approx. 260g (with wemos d1)
+15mm version: Approx. 260g 
+13mm version: Approx. 233g 
 
 ## Gallery
 
