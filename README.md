@@ -96,6 +96,7 @@ Components:
 ## Weight
 
 15mm version: Approx. 260g 
+
 13mm version: Approx. 233g 
 
 ## Gallery
