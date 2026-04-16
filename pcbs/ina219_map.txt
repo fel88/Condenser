@@ -1,0 +1,4 @@
+INA 219
+chip - U2
+cap - C31
+4 resistors - 10K - R20,R22,R23,R24
