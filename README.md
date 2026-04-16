@@ -27,7 +27,7 @@ WYSIWYG e-book.
 - SD-card slot
 - MPU6050 (instead of buttons)
 - Reed switch (turn on/off)
-- Lithium-ion capacitors (LIC) 4x200F  (https://en.cda-cap.com/index.php/product/lib-series/) (https://item.szlcsc.com/3567431.html?lcsc_vid=QlRbX1wET1gIUAZeFVIKBFxWEwVWBVUAEVQKVVxUEwMxVlNSR1daUF1WT1RZXztW)
+- Lithium-ion capacitors (LIC) 4x200F  (https://en.cda-cap.com/index.php/product/lib-series/) (https://item.szlcsc.com/3567431.html?lcsc_vid=QlRbX1wET1gIUAZeFVIKBFxWEwVWBVUAEVQKVVxUEwMxVlNSR1daUF1WT1RZXztW)  -OR-  5x100F LIC0825Q3R8107 (for 13mm slim version)  
 - Solar panel (something like this https://aliexpress.ru/item/1005008193807038.html?sku_id=12000044193770138)
 - Buck-boost converter (https://aliexpress.ru/item/1005001525710076.html)
 - NeoPixel (not necessarily)
@@ -37,11 +37,8 @@ WYSIWYG e-book.
 
 ## How to assemble PCB 
 
-### Panel driver PCB v5.0 (SRAM + Charger + Wifi integrated)
-<img width="1180" height="512" alt="изображение" src="https://github.com/user-attachments/assets/d8c0ad74-5851-4b35-940f-2586feff86bc" />
-
-### Panel driver PCB v3.0 (no charger, no wifi)
-![image](https://github.com/user-attachments/assets/c51009ef-ac24-424c-9be7-da2aa96eabaf)
+### Panel driver PCB v6.0 
+<img width="800" height="620" alt="image" src="https://github.com/user-attachments/assets/0ca4f8b0-a3a1-4a51-9bf8-f188c2f43052" />
 
 You need next components to solder PCB board:
 1. Arduino MEGA2560 
