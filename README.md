@@ -38,7 +38,7 @@ WYSIWYG e-book.
 ## How to assemble PCB 
 
 ### Panel driver PCB v6.0 
-<img width="800" height="620" alt="image" src="https://github.com/user-attachments/assets/0ca4f8b0-a3a1-4a51-9bf8-f188c2f43052" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/0ca4f8b0-a3a1-4a51-9bf8-f188c2f43052" />
 
 You need next components to solder PCB board:
 1. Arduino MEGA2560 
