@@ -79,7 +79,7 @@ There are two ways of WiFi usage at the moment:
 
 ## Charger
 
-A pass (series) regulator based on TL431 (adjust the output voltage level to ~3.95-3.98V)
+A pass (series) regulator based on TL431 (adjust the output voltage level to ~3.95-3.98V (15mm version) -OR- ~3.78V (13mm version))
 
 Components:
 1. resistor 330Ohm, 47kOhm
