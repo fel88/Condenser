@@ -47,6 +47,8 @@ You need next components to solder PCB board:
 4. INA219
 5. Crystal quartz
 6. FRAM
+
+Don't forget to make R4 at least 20K
    
 ## How to switch pages?
 
@@ -79,7 +81,7 @@ There are two ways of WiFi usage at the moment:
 
 ## Charger
 
-A pass (series) regulator based on TL431 (adjust the output voltage level to ~3.95-3.98V (15mm version) -OR- ~3.78V (13mm version))
+A pass (series) regulator based on TL431 (adjust the output voltage level to ~3.95-3.98V (15mm version) -OR- ~3.78V (13mm version)
 
 Components:
 1. resistor 330Ohm, 47kOhm
